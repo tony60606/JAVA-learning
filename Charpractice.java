@@ -6,7 +6,7 @@ public class Charpractice {
     float 金額 = 數量 * 單價 ;
     char 幣別 = '$' ;
     System.out.println(產品名稱) ;
-    System.out.println(幣別+""+單價) ;
-    System.out.println(幣別+""+金額) ;
+    System.out.println("產品單價："+幣別+""+單價) ;
+    System.out.println("產品金額："+幣別+""+金額) ;
   }
 }
